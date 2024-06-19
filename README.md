@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on React/React Native project.
 - 📫 How to reach me ... just click follow me
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I love health time, but I don't do health... only in chair... lol
+- ⚡ Fun fact: I like fitness 💪, but actually I do it... in chair... lol
 
 <!---
 zhen1007/zhen1007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
